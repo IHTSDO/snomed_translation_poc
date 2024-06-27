@@ -1,3 +1,8 @@
+data/*
+*.csv
+*.xlsx
+DeepL API Key.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
