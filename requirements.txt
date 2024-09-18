@@ -1,0 +1,17 @@
+pandas
+numpy
+more_itertools
+scikit-learn
+scipy
+transformers
+deepl
+tqdm
+evaluate
+termcolor
+Levenshtein
+nltk
+cer
+wandb
+accelerate
+peft
+git+https://github.com/VerataiLtd/snomed_graph.git#egg=snomed_graph
