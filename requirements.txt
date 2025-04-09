@@ -13,5 +13,6 @@ nltk
 cer
 wandb
 accelerate
+bitsandbytes
 peft
 git+https://github.com/VerataiLtd/snomed_graph.git#egg=snomed_graph
